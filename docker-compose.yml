@@ -3,8 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: nodejs
-    container_name: nodejs
+    container_name: nodejs_laposta
     restart: unless-stopped
     ports:
       - "3000:3000" # change first port if needed

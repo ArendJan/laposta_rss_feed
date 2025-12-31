@@ -2,6 +2,8 @@
 
 Simpel script om laposta rss feed te maken voor bijvoorbeeld Wordpress.
 
+Voorbeeld: [https://fietsm.arend-jan.com/rss](https://fietsm.arend-jan.com/rss)
+
 ## Config:
 - kopieer config_example.json to config.json
 - Pas config aan (keys met // zijn commentaar):
