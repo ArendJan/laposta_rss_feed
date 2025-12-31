@@ -2,7 +2,7 @@
 
 Simpel script om laposta rss feed te maken voor bijvoorbeeld Wordpress.
 
-Voorbeeld: [https://fietsm.arend-jan.com/rss](https://fietsm.arend-jan.com/rss)
+Voorbeeld: [https://fietsm.arend-jan.com/rss](https://fietsm.arend-jan.com/rss) -> WordPress(standaard RSS module): [https://www.fietsmaatjeswoerden.nl/test-3/](https://www.fietsmaatjeswoerden.nl/test-3/)
 
 ## Config:
 - kopieer config_example.json to config.json
