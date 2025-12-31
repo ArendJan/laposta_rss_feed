@@ -1,0 +1,11 @@
+services:
+  nodejs:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: nodejs
+    container_name: nodejs
+    restart: unless-stopped
+    ports:
+      - "3000:3000" # change first port if needed
+    command: node /app/index.js

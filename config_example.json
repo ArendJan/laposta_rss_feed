@@ -1,0 +1,12 @@
+{
+    "// deze api key komt uit de laposta documentatie": true,
+    "apiKey": "JdMtbsMq2jqJdQZD9AHC",
+    
+    "//if public lists is empty, then all lists are public": true,
+    "public_lists" : [], 
+    "port": 3000,
+    "url": "http://localhost",
+    "title": "Fietsmaatjes Woerden Nieuwsbrieven",
+    "description": "Een verzameling van alle nieuwsbrieven van Fietsmaatjes Woerden.",
+    "update_interval_minutes": 1
+}
